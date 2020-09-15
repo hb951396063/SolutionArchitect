@@ -1,15 +1,24 @@
 # The Way To Solution Architect
+---
 
 ## Docker
 
-## kubernetes
+---
+
+## Kubernetes
+
+---
 
 ## Microservices
+
 ### SpringCloud
 ### Istio
 ### Dubbo
 
+---
+
 ## DataBase
+
 ### MySQL
 ### MariaDB
 ### Oracle
@@ -32,9 +41,14 @@
 ### Amazon Aurora
 ### 阿里、华为、腾讯数据库
 
+---
+
 ## Middleware
+
 ### Kafka
 ### AWS SNS/SQS/Kxxx
+
+---
 
 ## BigData
 
