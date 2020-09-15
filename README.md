@@ -1,7 +1,7 @@
 # The Way To Solution Architect
 ---
 
-## Docker
+## Docker容器
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-## Microservices
+## Microservices微服务治理
 
 ### SpringCloud
 ### Istio
@@ -17,7 +17,7 @@
 
 ---
 
-## DataBase
+## DataBase数据库
 
 ### MySQL
 ### MariaDB
@@ -43,14 +43,14 @@
 
 ---
 
-## Middleware
+## Middleware中间件
 
 ### Kafka
 ### AWS SNS/SQS/Kxxx
 
 ---
 
-## BigData
+## BigData大数据
 
 ------
 
